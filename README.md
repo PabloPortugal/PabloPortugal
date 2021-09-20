@@ -23,14 +23,14 @@
   
   </div>
 
-  <div align="center">
-      <img src=https://nyackpenguinplunge.files.wordpress.com/2017/04/giphy-2.gif?w>
-  </div>
+  
   
   
   ![Snake animation](https://github.com/PabloPortugal/PabloPortugal/blob/output/github-contribution-grid-snake.svg)
 
-
+ <div align="center">
+      <img src=https://nyackpenguinplunge.files.wordpress.com/2017/04/giphy-2.gif?w>
+  </div>
 
 
 
