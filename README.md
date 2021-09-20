@@ -14,7 +14,7 @@
   
 
   <h4>Tenho algum conhecimento:</h4>      
-                                                                                                                                                                                      <img heigth= src="   ![cadu](https://user-images.githubusercontent.com/89218103/134060782-06b63bc6-4096-41d0-b8d0-f81ad056b1ac.gif)"/>
+                                                                                                                                                                                  
                                                                                                                  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,6 +23,11 @@
   
   </div>
 
+  <div align="center">
+      <img src=https://nyackpenguinplunge.files.wordpress.com/2017/04/giphy-2.gif?w>
+  </div>
+  
+  
   ![Snake animation](https://github.com/PabloPortugal/PabloPortugal/blob/output/github-contribution-grid-snake.svg)
 
 
