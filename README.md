@@ -1,7 +1,4 @@
 
- <div align="center">
-      <img src=https://i.pinimg.com/originals/bf/3c/a6/bf3ca6acfe262d37f6f4b8dc3eb0ea99.gif>
-  </div>
 
 
 
@@ -16,13 +13,16 @@
 - Estou no 1/3 termo do curso de Desenvolvimento de Sistemas no  Senai.
 - Contate-me pelo o email: pabloportugaldasilva2004@gmail.com.
 
+
 <div>
   <a href="https://github.com/PabloPortugal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloPortugal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPortugal&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
+   <div align="end">
+      <img height="100" src=https://i.pinimg.com/originals/bf/3c/a6/bf3ca6acfe262d37f6f4b8dc3eb0ea99.gif>
+  </div>
 
   <h4>Tenho algum conhecimento:</h4>      
                                                                                                                                                                                   
