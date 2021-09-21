@@ -14,9 +14,9 @@
       
   </div>
 
-*-👔 Estou a procura do meu prmeiro emprego. 
-*-📚 Estou no 1/3 termo do curso de Desenvolvimento de Sistemas no  Senai.
-*-📫Contate-me pelo o email: pabloportugaldasilva2004@gmail.com.
+* 👔 Estou a procura do meu prmeiro emprego. 
+* 📚 Estou no 1/3 termo do curso de Desenvolvimento de Sistemas no  Senai.
+* 📫Contate-me pelo o email: pabloportugaldasilva2004@gmail.com.
 
 <div>
   <a href="https://github.com/PabloPortugal">
