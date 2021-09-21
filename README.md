@@ -21,7 +21,7 @@
 </div>
 
    <div align="end">
-      <img height="130" src=https://gcmais.com.br/wp-content/uploads/2021/07/SURF.gif>
+      <img height="130" src=https://4.bp.blogspot.com/-Woy5JgH3o_Y/WFkLYrzKUTI/AAAAAAAAYIw/UjuXYGlLnR87EiD_YlYOkol3NCamgpUigCLcB/s1600/Gifs%2Banimados%2BSurf%2B3.gif>
   </div>
 
   <h4>Tenho algum conhecimento:</h4>      
@@ -40,7 +40,8 @@
   ![Snake animation](https://github.com/PabloPortugal/PabloPortugal/blob/output/github-contribution-grid-snake.svg)
 
  <div align="center">
-      <img src=https://nyackpenguinplunge.files.wordpress.com/2017/04/giphy-2.gif?w>
+      <img src=https://4.bp.blogspot.com/-gz9ZgizANGA/WmPAyHrPOQI/AAAAAAAAeZ8/CTJuyzXBFfwHa9_3YtODmRQdVuFDRa5EACLcBGAs/s1600/starry%2Bnight%2Bgif.gif>
+      
   </div>
 
 
