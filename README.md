@@ -21,7 +21,7 @@
 </div>
 
    <div align="end">
-      <img height="130" src=https://i.pinimg.com/originals/bf/3c/a6/bf3ca6acfe262d37f6f4b8dc3eb0ea99.gif>
+      <img height="130" src=https://gcmais.com.br/wp-content/uploads/2021/07/SURF.gif>
   </div>
 
   <h4>Tenho algum conhecimento:</h4>      
