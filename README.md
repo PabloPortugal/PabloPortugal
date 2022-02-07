@@ -38,7 +38,7 @@
       <img height="130" src=https://4.bp.blogspot.com/-Woy5JgH3o_Y/WFkLYrzKUTI/AAAAAAAAYIw/UjuXYGlLnR87EiD_YlYOkol3NCamgpUigCLcB/s1600/Gifs%2Banimados%2BSurf%2B3.gif>
   </div> 
 
- 
+ ## Minhas redes sociais:
 <div> 
   <a href="https://www.instagram.com/falatu_portuga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = " https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
